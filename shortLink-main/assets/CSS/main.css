@@ -57,7 +57,9 @@ label{
 .checkbox__box{
   margin: 0px 10px;
 }
-
+.checkbox-1{
+  margin: 0px 10px;
+}
 .registration-form form{
   background-color: #fff;
   max-width: 600px;
